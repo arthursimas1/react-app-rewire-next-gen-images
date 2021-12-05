@@ -1,0 +1,31 @@
+{
+  "name": "react-app-rewire-next-gen-images",
+  "version": "1.0.0",
+  "description": "Add next-gen-images-webpack-plugin to a react-app-rewired config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursimas1/react-app-rewire-next-gen-images.git"
+  },
+  "keywords": [
+    "compression",
+    "nextgen",
+    "images",
+    "picture",
+    "next-gen-images-webpack-plugin",
+    "webpack",
+    "react-app-rewired"
+  ],
+  "author": "Arthur J Simas <?>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthursimas1/react-app-rewire-next-gen-images/issues"
+  },
+  "homepage": "https://github.com/arthursimas1/react-app-rewire-next-gen-images#readme",
+  "dependencies": {
+    "next-gen-images-webpack-plugin": "^1.1.0"
+  }
+}
